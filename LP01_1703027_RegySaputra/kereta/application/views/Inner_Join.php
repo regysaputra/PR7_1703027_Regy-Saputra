@@ -4,20 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <?php include "Head.php"; ?>
 
-<div class="container-fluid">
-		<div class="row" style="padding-top:40px;padding-left:10px;padding-right:10px;">
-		<br>
-		<br>
-    <div class="">
-			<a href="<?php echo site_url(); ?>/Welcome/index"><button class="btn btn-success" type="button">LEFT JOIN</button></a>
-			<a href="<?php echo site_url(); ?>/Welcome/index1"><button class="btn btn-success" type="button">RIGHT JOIN</button></a>
-			<a href="<?php echo site_url(); ?>/Welcome/index2"><button class="btn btn-success" type="button">INNER JOIN</button></a>
-		</div>
 
-		<br><br><br><br>
-			<div style="padding-left:250px;">
-
-				<br><br>
 				<h2><b>INNER JOIN LOKOMOTIF,GERBONG DAN KURSI</b></h2>
 			</div>
     <table class="table table-hover">
@@ -55,6 +42,5 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 			</div>
 		</div>
-				</html>
 
 <?php include "Foot.php"; ?>
