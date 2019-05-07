@@ -1,0 +1,22 @@
+Nama : Regy Saputra
+NIM  : 1703027
+
+
+1. Left Join
+   Sebuah perintah yang digunakan untuk menampilkan sebuah data atau record 
+dengan menghubungkan dua table atau lebih dalam satu perintah, pada left join
+akan membuat sebuah parameter pada sebelah kiri jika data pada table terdapat data
+atau record yang kosong atau tidak berelasi maka akan berisi NULL.
+
+2. Right Join
+   Sebuah perintah yang digunakan untuk menampilkan sebuah data atau record 
+dengan menghubungkan dua table atau lebih dalam satu perintah, pada right join
+akan membuat sebuah parameter pada sebelah kanan jika data pada table terdapat data
+atau record yang kosong atau tidak berelasi maka akan berisi NULL.
+
+3. Inner Join
+   Sebuah perintah yang digunakan untuk menampilkan sebuah data atau record 
+dengan menghubungkan dua table atau lebih dalam satu perintah, pada perintah 
+inner join data yang akan ditampilkan hanyalah data yang memiliki pasangan saja, 
+maksudnya yaitu data pada table tidak memiliki sebuah kesamaan maka data tidak 
+akan ditampilkan.
